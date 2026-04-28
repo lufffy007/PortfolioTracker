@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+snaptrade-python-sdk
+python-dotenv
+pydantic-settings
+pandas
+plotly
+streamlit
